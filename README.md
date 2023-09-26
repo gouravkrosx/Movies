@@ -1,2 +1,2 @@
 # Movies
-[Download this](https://github.com/gouravkrosx/Movies/blob/master/README.md)
+[Download this](https://github.com/gouravkrosx/Movies/raw/master/README.md)
