@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the CA certificate
-caCertPath="/app/asset/ca.crt"
+caCertPath="./ca.crt"
 
 # Paths to check for CA store
 caStorePaths=(
