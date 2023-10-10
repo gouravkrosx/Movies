@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Download the ca.crt file
-curl -o ca.crt https://raw.githubusercontent.com/keploy/keploy/main/pkg/proxy/asset/ca.crt
 
 # Path to the CA certificate
 caCertPath="./ca.crt"
